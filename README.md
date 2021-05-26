@@ -6,6 +6,10 @@ Evaluated uncertainty on test set using model-ensemble is shown below-
 <img width="800" src="Figure4.jpg">  
 </p>
 
+Using model ensemble we also identify epoch of emergence as below (look for blue to red transition)-
+
+
+
 ### Requirements
 Below are the package versions used in writing the code. 
 
