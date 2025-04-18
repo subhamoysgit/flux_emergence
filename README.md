@@ -1,5 +1,5 @@
-# Human-efficient labeling of a solar flux emergence video dataset by a deep learning model
-Code from our article 'Human-efficient labeling of a solar flux emergence video dataset by a deep learning model' to create model-ensemble through training-validation combination and dropouts.
+# Efficient labeling of a solar flux emergence video dataset by a deep learning model
+Code from our article ['Efficient labelling of solar flux evolution videos by a deep learning model'](https://www.nature.com/articles/s41550-022-01701-3) to create model-ensemble through training-validation combination and dropouts.
 
 Evaluated uncertainty on test set using model-ensemble is shown below-
 <p align="center">
